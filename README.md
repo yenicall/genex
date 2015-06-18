@@ -1,0 +1,2 @@
+# genex
+A genetical language
